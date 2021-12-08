@@ -13,3 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
+const toyContainer = document.createElement('div');
+body.appendChild(toyContainer);
+
